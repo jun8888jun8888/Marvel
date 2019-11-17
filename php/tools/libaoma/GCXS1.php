@@ -1,0 +1,13 @@
+<?php
+$Id = Array
+(
+'GCXSA2B6',
+'GCXSA3B2',
+'GCXSA4NA',
+'GCXSA5YD',
+'GCXSA6MU',
+'GCXSA7J3',
+'GCXSA8ZN',
+'GCXSA9QS',
+'GCXSAAMN',
+);
